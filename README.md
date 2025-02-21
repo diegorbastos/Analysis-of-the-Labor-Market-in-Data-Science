@@ -24,7 +24,6 @@ This project analyzes data science job postings from Glassdoor, focusing on **sa
 
 - **Source:** Glassdoor job postings
 - **File Used:** `Uncleaned_DS_jobs.csv` → Processed to `Cleaned_DS_jobs.csv`
-- **Main Columns:** Job Title, Company Name, Location, Salary Estimate, Job Description, Type of Ownership, Industry, Sector, etc.
 
 ## 🔄 Data Cleaning & Transformation
 
