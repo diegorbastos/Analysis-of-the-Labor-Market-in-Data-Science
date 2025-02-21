@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes data science job postings from Glassdoor, focusing on **salary trends, skill demand, and hiring patterns**. The dataset was cleaned, transformed, and visualized using **Python (Pandas, NumPy, Matplotlib, Seaborn), providing insights into the data science job market.
+This project analyzes data science job postings from Glassdoor, focusing on **salary trends, skill demand, and hiring patterns**. The dataset was cleaned, transformed, and visualized using Python (Pandas, NumPy, Matplotlib, Seaborn), providing insights into the data science job market.
 
 ## 🎯 Objectives
 
