@@ -14,7 +14,7 @@ The following steps were performed to clean and structure the data:
 - **Education Level Identification:** Extracted required education levels (Bachelor's, Master's, PhD).
 - **Company Data Standardization:** Cleaned company names, extracted city/state from locations, and standardized company size and revenue data.
 - **Competitor Analysis:** Counted the number of competitors for each company.
-- **Data Type Adjustments:** Converted categorical and numerical fields to appropriate data types.
+- **Data Type Adjustments:** Converted categorical fields to appropriate data types.
 - **Outlier Detection:** Identified and handled outliers in salary and experience level data.
 
 ## Data Export
